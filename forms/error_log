@@ -1,0 +1,4 @@
+[22-Jun-2020 19:57:54 America/New_York] PHP Notice:  Undefined index: email in /home/ecomkejf/public_html/forms/contact.php on line 18
+[22-Jun-2020 19:57:54 America/New_York] PHP Notice:  Undefined index: name in /home/ecomkejf/public_html/forms/contact.php on line 19
+[22-Jun-2020 19:57:54 America/New_York] PHP Notice:  Undefined index: subject in /home/ecomkejf/public_html/forms/contact.php on line 20
+[22-Jun-2020 19:57:54 America/New_York] PHP Notice:  Undefined index: message in /home/ecomkejf/public_html/forms/contact.php on line 21
